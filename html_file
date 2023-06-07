@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="it">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML file</title>
+    <link rel="stylesheet" href="style.css">
+    
+  </head>
+  
+  
+  <body>
+  <h1> This is the main Heading </h1>
+  <p> This is the first paragraph, could be an intro or a description </p>
+  <h2> Questo è il titolo più piccolo </h2>
+  <p> Il paragrafo del titolo pià piccolo </p>
+  <h3> titolino </h3>
+  <p> un altro paragrafinoino con link <a href="www.marianapea.com" > My portfolio </a> </p>
+  
+  <!-- images -->
+  to add an image into the page you need to use an <img> element This is an empty element, which means no closing tag needed. 
+  it must carry the following two attributes src and alt 
+  
+  src tells browser where to find the image file. this will be a relative url pointing to 
+  the image in the site
+  
+  alt provides a text description of the image which describes the image if you cannot see it
+  
+  also title attribute with the element to provide additional information about the image often used as alt text
+  
+  height this specifies the height of the images in pixels
+  width this specifies the width of the image in pixels
+  
+  align attribute was commonly used to indicate how the other parts of a page should flow around an image
+  top aligns the first line of the surrounding text with the top of the image
+  middle aligns the first line 
+  bottom align the first line
+  
+  Image dimension
+  
+	<script src="index.js"></script>
+  
+  </body>
+  
+</html>
+
+
+
+
+
